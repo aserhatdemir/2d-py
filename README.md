@@ -1,2 +1,4 @@
-# 2d-py
-2d python
+# rock-paper-scissors
+rock-paper-scissors & variants
+2d python project
+
